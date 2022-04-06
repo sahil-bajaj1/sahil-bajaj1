@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sahil-bajaj1
+- 👋 Hi, I’m Sahil Bajaj (@sahil-bajaj1)
 - 👀 I am a Computer Science Senior at the University of Texas at Arlington. 
 - 🌱 I am currently looking for Entry level job opportunites. 
 - 📫 You can reach me at sahil_bajaj1@yahoo.com. 
